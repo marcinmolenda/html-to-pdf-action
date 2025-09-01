@@ -20,7 +20,7 @@ inputs:
 
 runs:
   using: "docker"
-  image: "Dockerfile"
+  image: "ghcr.io/marcinmolenda/html-to-pdf-action:sha256-ad43acf05d7f7d50147bd4835d726f7ec6b79e4e58448109ea601c8e1f9fc47c.sig"
 
 branding:
   color: "blue"
